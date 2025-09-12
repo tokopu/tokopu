@@ -1,34 +1,34 @@
-<h3 align="center">A passionate frontend developer expanding his skills</h3>
+## Hi 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qgscss&label=Profile%20views&color=0e75b6&style=flat" alt="qgscss" /> </p>
+I'm qg, a passionate front-end developer who loves working with JavaScript. I enjoy creating beautiful user interfaces and exploring new technologies. Let's build something amazing together!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://clojure.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Clojure_logo.svg" alt="clojure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+I'm currently honing my skills in Tailwind CSS and React. My journey as a developer has been exciting, and I'm always eager to learn more. Based on my experiences, I strive to write clean and efficient code while keeping the user experience in mind.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qgscss&show_icons=true&locale=en&layout=compact" alt="qgscss" /></p>
+## Skills & Technologies
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qgscss&show_icons=true&locale=en" alt="qgscss" /></p>
+react,tailwind,html,css,cpp,c,git
 
----
+## Top Projects
 
-##  Outside the Code
+- [qgscss](https://github.com/qgscss/qgscss): A personal repository showcasing my journey as a front-end developer. ⭐️ 0 Stars
+- [cheatripper](https://github.com/qgscss/cheatripper): A simple Windows application designed to clean or remove specific files. ⭐️ 0 Stars (C++)
+- [dev-tool-blocker](https://github.com/qgscss/dev-tool-blocker): A lightweight script to safeguard web pages from developer tool inspection. ⭐️ 0 Stars
+- [Theme-Switcher](https://github.com/qgscss/Theme-Switcher): A glassmorphic theme switcher built with vanilla JavaScript and CSS. ⭐️ 0 Stars
 
--  Designing to deep, focused music  
--  Gaming when it's time to reset  
--  Prototyping bold, experimental UI concepts  
--  Iterating fast — ship small, polish often  
+## GitHub Stats
 
----
+ **Public Repositories:** 4
+ **Followers:** 0
+ **Following:** 0
 
-##  Get in Touch
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qgscss&show_icons=true&theme=radical)
 
-- **Discord**: `ebtdecline`  
-- **Website**: shut down (new one soon)
+## Latest Blog Posts
 
----
+Currently, I don't have any blog posts, but stay tuned for updates!
 
-**qg from the trenches**  
+## Connect with Me
+
+{`discord: ebtdecline`}
