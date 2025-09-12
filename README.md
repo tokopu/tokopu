@@ -1,4 +1,4 @@
-## Hi 
+## Hi there! 👋
 
 I'm qg, a passionate front-end developer who loves working with JavaScript. I enjoy creating beautiful user interfaces and exploring new technologies. Let's build something amazing together!
 
@@ -19,9 +19,9 @@ react,tailwind,html,css,cpp,c,git
 
 ## GitHub Stats
 
- **Public Repositories:** 4
- **Followers:** 0
- **Following:** 0
+📊 **Public Repositories:** 4
+👥 **Followers:** 0
+👤 **Following:** 0
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qgscss&show_icons=true&theme=radical)
 
@@ -31,4 +31,4 @@ Currently, I don't have any blog posts, but stay tuned for updates!
 
 ## Connect with Me
 
-{`discord: ebtdecline`}
+{}
