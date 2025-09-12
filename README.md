@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer expanding his skills</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qgscss&label=Profile%20views&color=0e75b6&style=flat" alt="qgscss" /> </p>
 
@@ -12,12 +12,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qgscss&show_icons=true&locale=en&layout=compact" alt="qgscss" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qgscss&show_icons=true&locale=en" alt="qgscss" /></p>
-
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=qgscss&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qgscss&layout=compact&theme=radical" />
-</p>
 
 ---
 
