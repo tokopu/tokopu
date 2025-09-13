@@ -8,7 +8,7 @@ I'm currently honing my skills in Tailwind CSS and React. My journey as a develo
 
 ## Skills & Technologies
 
-react,tailwind,html,css,cpp,c,git
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 ## Top Projects
 
