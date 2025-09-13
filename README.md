@@ -24,6 +24,7 @@ react,tailwind,html,css,cpp,c,git
  **Following:** 0
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qgscss&show_icons=true&theme=radical)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=qgscss&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
 
 ## Latest Blog Posts
 
