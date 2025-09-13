@@ -27,10 +27,8 @@ I'm currently honing my skills in Tailwind CSS and React. My journey as a develo
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qgscss&show_icons=true&theme=radical)
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=qgscss&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
 
-## Latest Blog Posts
 
-Currently, I don't have any blog posts, but stay tuned for updates!
 
 ## Connect with Me
 
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev): {`ebtdecline`}
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1270223423594954777)
