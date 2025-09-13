@@ -33,4 +33,4 @@ Currently, I don't have any blog posts, but stay tuned for updates!
 
 ## Connect with Me
 
-{}
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev): {`ebtdecline`}
