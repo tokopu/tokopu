@@ -1,6 +1,6 @@
 ## Hi
 
-I'm qg, a passionate front-end developer who loves working with JavaScript. I enjoy creating beautiful user interfaces and exploring new technologies. Let's build something amazing together!
+I'm vel, a passionate front-end developer who loves working with JavaScript. I enjoy creating beautiful user interfaces and exploring new technologies
 
 ## About Me
 
@@ -13,9 +13,7 @@ I'm currently honing my skills in Tailwind CSS and React. My journey as a develo
 
 ## Top Projects
 
-
-- [Cheat Ripper](https://github.com/qgscss/cheatripper): A simple Windows application designed to clean or remove specific files. (C++)
-- [DevTect](https://github.com/qgscss/dev-tool-blocker): A lightweight script to safeguard web pages from developer tool inspection. (Javascript)
+`SOON`
 
 ## GitHub Stats
 
