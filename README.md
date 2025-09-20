@@ -1,34 +1,41 @@
-## Hi
+# Hi, I'm Vel
 
-I'm vel, a passionate front-end developer who loves working with JavaScript. I enjoy creating beautiful user interfaces and exploring new technologies
+I'm a passionate **Front-End Developer** who enjoys building responsive and user-friendly web applications with **JavaScript** and modern technologies.  
 
-## About Me
+---
 
-I'm currently honing my skills in Tailwind CSS and React. My journey as a developer has been exciting, and I'm always eager to learn more. Based on my experiences, I strive to write clean and efficient code while keeping the user experience in mind.
+## About Me  
 
-## Skills & Technologies
+- Currently focused on **React** and **Tailwind CSS**  
+- Turning ideas and designs from **Figma** into clean, functional code  
+- Strive to write **efficient, maintainable, and scalable** solutions  
+- Always learning and exploring new tools, frameworks, and workflows  
 
-[![My Skills](https://skillicons.dev/icons?i=html,scss,css,javascript,react,figma)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+---
 
-## Top Projects
+## Skills & Technologies  
 
-`SOON`
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,javascript,react,tailwind,figma,cpp)](https://skillicons.dev)  
 
-## GitHub Stats
+---
 
- **Public Repositories:** 4
- **Followers:** 0
- **Following:** 0
+## Top Projects  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vellpy&show_icons=true&theme=radical)
+Coming soon...  
 
---
+---
 
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=vellpy&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
+## GitHub Stats  
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vellpy&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vellpy&layout=compact&theme=radical)  
 
+---
 
-## Connect with Me
+## Connect with Me  
 
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1270223423594954777)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1270223423594954777)  
+
+---
+
+*"Clean code, clear design, better experiences."*
