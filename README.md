@@ -25,7 +25,7 @@ I'm currently honing my skills in Tailwind CSS and React. My journey as a develo
 
 --
 
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=vellpy&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=vellpy&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
 
 
 
