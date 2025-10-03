@@ -19,7 +19,11 @@ I'm a passionate **Front-End Developer** who enjoys building responsive and user
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,javascript,react,tailwind)](https://skillicons.dev)  
 
 ### Programming Languages  
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,go)](https://skillicons.dev)  
+[![C++](https://skillicons.dev/icons?i=cpp&theme=dark)](https://isocpp.org/ "C++")  
+[![C#](https://skillicons.dev/icons?i=cs&theme=dark)](https://learn.microsoft.com/dotnet/csharp/ "C#")  
+[![C](https://skillicons.dev/icons?i=c&theme=dark)](https://en.cppreference.com/w/c "C")  
+[![Go](https://skillicons.dev/icons?i=go&theme=dark)](https://golang.org/ "Go")
+
 
 ### Design & Tools  
 [![My Skills](https://skillicons.dev/icons?i=figma,git,github,vscode)](https://skillicons.dev)  
