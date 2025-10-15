@@ -1,4 +1,4 @@
-# Hi, I'm Vel
+# Hi, I'm tokopu (also known as skyn)
 
 I'm a passionate **Front-End Developer** who enjoys building responsive and user-friendly web applications with **JavaScript** and modern technologies.  
 
@@ -35,8 +35,8 @@ Coming soon...
 
 ## GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vellpy&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vellpy&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tokopu&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tokopu&layout=compact&theme=radical)  
 
 ---
 
