@@ -29,17 +29,8 @@ I'm a passionate **Discord Bot Developer** who loves building powerful, scalable
 
 ## Top Projects  
 
-### 🧠 **SkynCore**  
-A modular Discord bot framework built for scalability and easy customization.  
-*(Coming soon...)*  
-
-### 🎵 **Melody**  
-Music bot with queue control, filters, and multi-server support.  
-*(Coming soon...)*  
-
-### ⚙️ **Utilify**  
-A general-purpose bot for automation, moderation, and custom commands.  
-*(Coming soon...)*  
+###  Grim
+- The #1 discord bot with fast response time and aesthetics. (Coming Christmas 2025)
 
 ---
 
