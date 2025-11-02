@@ -1,35 +1,45 @@
-# Hi, I'm tokopu (also known as skyn)
+# Hi, I'm Teq (also known as Toku)
 
-I'm a passionate **Front-End Developer** who enjoys building responsive and user-friendly web applications with **JavaScript** and modern technologies.  
+I'm a passionate **Discord Bot Developer** who loves building powerful, scalable, and interactive bots using **JavaScript** and modern libraries.  
 
 ---
 
 ## About Me  
 
-- Currently focused on **React** and **Tailwind CSS**  
-- Turning ideas and designs from **Figma** into clean, functional code  
-- Strive to write **efficient, maintainable, and scalable** solutions  
-- Always learning and exploring new tools, frameworks, and workflows  
+- Currently focused on **Discord.js** and **Node.js**  
+- Creating bots that enhance communities with **automation**, **fun**, and **utility**  
+- Strive to write **efficient, modular, and reliable** code  
+- Always experimenting with new APIs, libraries, and bot frameworks  
+- Interested in **open-source collaboration** and **community-driven projects**
 
 ---
 
 ## Skills & Technologies  
 
-### Frontend  
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,tailwind)](https://skillicons.dev)  
+### Bot Development  
+[![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,discord)](https://skillicons.dev)  
 
 ### Programming Languages  
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,go,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,cpp)](https://skillicons.dev)  
 
-
-### Design & Tools  
-[![My Skills](https://skillicons.dev/icons?i=figma,git,github,vscode)](https://skillicons.dev)  
+### Tools & Workflow  
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux)](https://skillicons.dev)  
 
 ---
 
 ## Top Projects  
 
-Coming soon...  
+### 🧠 **SkynCore**  
+A modular Discord bot framework built for scalability and easy customization.  
+*(Coming soon...)*  
+
+### 🎵 **Melody**  
+Music bot with queue control, filters, and multi-server support.  
+*(Coming soon...)*  
+
+### ⚙️ **Utilify**  
+A general-purpose bot for automation, moderation, and custom commands.  
+*(Coming soon...)*  
 
 ---
 
@@ -43,7 +53,8 @@ Coming soon...
 ## Connect with Me  
 
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1270223423594954777)  
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/tokopu)  
 
 ---
 
-*"Clean code, clear design, better experiences."*
+*"Clean commands, smart logic, better bots."*
