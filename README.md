@@ -16,10 +16,10 @@ I'm a passionate **Front-End Developer** who enjoys building responsive and user
 ## Skills & Technologies  
 
 ### Frontend  
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,javascript,react,tailwind)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,tailwind)](https://skillicons.dev)  
 
 ### Programming Languages  
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,go,py)](https://skillicons.dev)
 
 
 ### Design & Tools  
