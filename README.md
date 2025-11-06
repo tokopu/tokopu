@@ -17,7 +17,7 @@ I'm a passionate **Discord Bot Developer** who loves building powerful, scalable
 ## Skills & Technologies  
 
 ### Bot Development  
-[![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,discord)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,discordpy)](https://skillicons.dev)  
 
 ### Programming Languages  
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,cpp)](https://skillicons.dev)  
