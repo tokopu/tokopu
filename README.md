@@ -30,22 +30,21 @@ I'm a passionate **Discord Bot Developer** who loves building powerful, scalable
 ## Top Projects  
 
 ###  Grim
-- The #1 discord bot with fast response time and aesthetics. (Coming Christmas 2025)
+- The #1 discord bot with fast response time and aesthetics. 
+  - [grimbest.netlify.app](https://grimbest.netlify.app/)
 
 ---
 
 ## GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tokopu&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tokopu&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=teqeu&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teqeu&layout=compact&theme=radical)  
 
 ---
 
 ## Connect with Me  
 
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1270223423594954777)  
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/tokopu)  
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/teqeu)  
 
 ---
-
-*"Clean commands, smart logic, better bots."*
