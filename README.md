@@ -1,50 +1,22 @@
-# Hi, I'm Teq (also known as Toku)
+## hi, I'm joseph also known as teq
 
-I'm a passionate **Discord Bot Developer** who loves building powerful, scalable, and interactive bots using **JavaScript** and modern libraries.  
+studying tsx & currently building [grim](https://grimbest.netlify.app/)
 
----
+###### languages
+[![My skills](https://skillicons.dev/icons?i=python,lua,typescript,js,html,css&theme=dark)](https://ad.jar.rip)
 
-## About Me  
+###### frameworks
+[![My skills](https://skillicons.dev/icons?i=nextjs,react,bootstrap,tailwindcss&theme=dark)](https://ad.jar.rip)
 
-- Currently focused on **Discord.js** and **Node.js**  
-- Creating bots that enhance communities with **automation**, **fun**, and **utility**  
-- Strive to write **efficient, modular, and reliable** code  
-- Always experimenting with new APIs, libraries, and bot frameworks  
-- Interested in **open-source collaboration** and **community-driven projects**
+###### tools
+[![My skills](https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark)](https://ad.jar.rip)
 
----
+###### datastores
+[![My skills](https://skillicons.dev/icons?i=postgres,sqlite&theme=dark)](https://ad.jar.rip)
 
-## Skills & Technologies  
+###### devops
+[![My skills](https://skillicons.dev/icons?i=docker,vercel&theme=dark)](https://ad.jar.rip)
 
-### Bot Development  
-[![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,py)](https://skillicons.dev)  
-
-### Programming Languages  
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,cpp)](https://skillicons.dev)  
-
-### Tools & Workflow  
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux)](https://skillicons.dev)  
-
----
-
-## Top Projects  
-
-###  Grim
-- The #1 discord bot with fast response time and aesthetics. 
-  - [grimbest.netlify.app](https://grimbest.netlify.app/)
-
----
-
-## GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=teqeu&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teqeu&layout=compact&theme=radical)  
-
----
-
-## Connect with Me  
-
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1270223423594954777)  
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/teqeu)  
-
----
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=teqeu&color=7763fa" align="left" />
+</div>
