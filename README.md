@@ -3,7 +3,8 @@
 studying tsx & currently building [grim](https://grimbest.netlify.app/)
 
 ###### languages
-[![My skills](https://skillicons.dev/icons?i=python,lua,typescript,js,html,css&theme=dark)]
+[![My skills](https://skillicons.dev/icons?i=python,lua,typescript,js,html,css&theme=dark)](https://grimbest.netlify.app)
+
 
 ###### frameworks
 [![My skills](https://skillicons.dev/icons?i=nextjs,react,tailwindcss&theme=dark)](https://grimbest.netlify.app)
