@@ -12,7 +12,7 @@ studying tsx & currently building [grim](https://grimbest.netlify.app/)
 [![My skills](https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark)](https://ad.jar.rip)
 
 ###### datastores
-[![My skills](https://skillicons.dev/icons?i=postgres,sqlite&theme=dark)](https://ad.jar.rip)
+[![My skills](https://skillicons.dev/icons?i=postgres,sqlite,redis&theme=dark)](https://ad.jar.rip)
 
 ###### devops
 [![My skills](https://skillicons.dev/icons?i=docker,vercel&theme=dark)](https://ad.jar.rip)
