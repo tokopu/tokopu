@@ -6,16 +6,19 @@ studying tsx & currently building [grim](https://grimbest.netlify.app/)
 [![My skills](https://skillicons.dev/icons?i=python,lua,typescript,js,html,css&theme=dark)]
 
 ###### frameworks
-[![My skills](https://skillicons.dev/icons?i=nextjs,react,tailwindcss&theme=dark)]
+[![My skills](https://skillicons.dev/icons?i=nextjs,react,tailwindcss&theme=dark)](https://grimbest.netlify.app)
 
 ###### tools
-[![My skills](https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark)]
+[![My skills](https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark)](https://grimbest.netlify.app)
+
 
 ###### datastores
-[![My skills](https://skillicons.dev/icons?i=postgres,sqlite,redis&theme=dark)]
+[![My skills](https://skillicons.dev/icons?i=postgres,sqlite,redis&theme=dark)](https://grimbest.netlify.app)
+
 
 ###### devops
-[![My skills](https://skillicons.dev/icons?i=docker,vercel&theme=dark)]
+[![My skills](https://skillicons.dev/icons?i=docker,vercel&theme=dark)](https://grimbest.netlify.app)
+
 
 
 ###### activity
